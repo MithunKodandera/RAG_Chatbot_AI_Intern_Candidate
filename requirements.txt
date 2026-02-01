@@ -1,0 +1,10 @@
+langchain
+faiss-cpu
+pypdf
+fastapi
+uvicorn
+streamlit
+sentence-transformers
+transformers
+torch
+accelerate
